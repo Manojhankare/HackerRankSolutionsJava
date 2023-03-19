@@ -2,7 +2,7 @@ package main;
 
 import java.util.*;
 
-public class StaticInitilizerBlock{
+public class StaticInitializerBlock{
     static int B,H;
     static boolean flag;
 
