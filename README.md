@@ -32,6 +32,6 @@ To contribute to this repository, follow these steps:
 
 ## Contact
 
-If you have any questions or feedback, you can contact the me at manojhankare2@gmail.com.
+If you have any questions or feedback, create and submit a new issue and also you can contact the me at manojhankare2@gmail.com.
 
 #Kepp Learning #Keep Sharing
