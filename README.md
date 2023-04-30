@@ -7,13 +7,13 @@ This repository contains solutions to various programming challenges on the Hack
 The solutions are organized into folders corresponding to different Java subdomains of problems on HackerRank, including: 
 (some folders / solutions are maybe missing will update in future commits)(you can contribute as follow)
 
-1.Introduction
-2.Strings
-3.BigNumber
-4.Data Structures
-5.Object Oriented Programming
-6.Exception Handling
-7.Advanced
+1. Introduction
+2. Strings
+3. BigNumber
+4. Data Structures (collection, Hashset...etc)
+5. Object Oriented Programming
+6. Exception Handling
+7. Advanced
 
 ## Contributing
 
